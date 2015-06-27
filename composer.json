@@ -1,0 +1,7 @@
+{
+    "name": "betot/html2pdf",
+    "description": "Unofficial html2pdf package",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
